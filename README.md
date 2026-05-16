@@ -26,7 +26,7 @@ generates comparison charts, and automatically creates a detailed report file.
 
 # Preview
 
-(comparison_chart.png)
+![Comparison Chart] (comparison_chart.png)
 
 
 # Author
