@@ -1,0 +1,16 @@
+AI PRODUCT MATCHING REPORT
+============================
+
+SUPPLIER A STATISTICS
+----------------------
+Average Price: 290.12
+Highest Price: 950.0
+Lowest Price: 18.0
+
+SUPPLIER B STATISTICS
+----------------------
+Average Price: 295.88
+Highest Price: 970
+Lowest Price: 20
+
+Supplier A is cheaper on average.
